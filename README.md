@@ -8,4 +8,4 @@
 
 4. use the http://localhost:3000/transaction/upload url to test the app
 
-5. you need to parse two params, the CSV file and the userId
+5. you need to parse two params, the CSV file and the walletId
